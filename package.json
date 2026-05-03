@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/villagekit/products.git"
+    "url": "git+https://github.com/villagekit/gridkit-products.git"
   },
   "license": "BlueOak-1.0.0",
   "bugs": {
-    "url": "https://github.com/villagekit/products/issues"
+    "url": "https://github.com/villagekit/gridkit-products/issues"
   },
-  "homepage": "https://github.com/villagekit/products#readme",
+  "homepage": "https://github.com/villagekit/gridkit-products#readme",
   "devDependencies": {
     "plop": "^4.0.1"
   }
