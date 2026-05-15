@@ -1,0 +1,11 @@
+[product]
+name = "@villagekit/baby-gym"
+label = "Baby Gym"
+description = ""
+tags = [
+  'furniture',
+  'kid',
+  'fitness'
+]
+type = "kit"
+exports = "./baby-gym.ts"
